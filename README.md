@@ -158,4 +158,4 @@ Through this project I practiced:
 
 **MD ANIK**
 
-Learning Python • Pandas • NumPy • Data Analysis • Machine Learning
+Python • Pandas • NumPy • Data Analysis • Machine Learning
